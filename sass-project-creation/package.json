@@ -1,0 +1,12 @@
+{
+  "name": "sass-project-creation",
+  "version": "1.0.0",
+  "description": "Sets up a modularized SASS folder structure and scripts for easy project styling",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Prescott Breeden, Brett Jory",
+  "license": "ISC",
+  "keywords": []
+}
