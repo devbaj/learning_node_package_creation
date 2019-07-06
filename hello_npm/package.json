@@ -1,5 +1,5 @@
 {
-  "name": "sass-project-creation",
+  "name": "hello-npm",
   "version": "1.0.0",
   "description": "Sets up a modularized SASS folder structure and scripts for easy project styling",
   "main": "index.js",

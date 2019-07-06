@@ -1,0 +1,11 @@
+{
+  "name": "sass-me",
+  "version": "1.0.0",
+  "description": "Creates a modularized folder structor for SASS styling, as well as scripts for building the project into css\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Prescott Breeden, Brett Jory",
+  "license": "ISC"
+}
